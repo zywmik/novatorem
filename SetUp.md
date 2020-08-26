@@ -45,7 +45,7 @@ curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Authorizat
 
 ## ReadMe
 
-You can now use the following in your readme:
+You can now use the following in your readme
 
 ```[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)```
 
